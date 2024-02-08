@@ -11,8 +11,8 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Data Ingestion and third-party API usage   | <a href="https://github.com/arikschroetlin/Azure-Honeypot>Azure Honeypot</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/arikschroetlin/Azure-Honeypot>Azure Honeypot</a>|
+| SIEM Data Ingestion and third-party API usage   | [Azure Honeypot](https://github.com/arikschroetlin/Azure-Honeypot)|
+| Network Traffic Monitoring and Attack Detection | [Azure Honeypot](https://github.com/arikschroetlin/Azure-Honeypot)|
 
 
 ## Tools
